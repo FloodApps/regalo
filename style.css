@@ -60,7 +60,7 @@ caption {
 }
 
 body {
-    width: 57.5rem;
+    width: 55.3rem;
     margin: 0 auto;
 }
 
@@ -108,7 +108,7 @@ tfoot {
 }
 
 header, footer {
-    width: 57.6rem;
+    width: 57.5rem;
     background-color: rgb(0, 255, 234);
     margin: 0 0 0 -1.125rem;
     border-radius: 10px;
