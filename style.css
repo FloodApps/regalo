@@ -38,8 +38,8 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 0 0 10px 0;
-    color: #00539F;
-    text-shadow: 3px 3px 3px black;
+    color: #4d3400;
+    text-shadow: 3px 3px 3px rgb(156, 99, 13);
 }
 
 h2 {
